@@ -1,1 +1,6 @@
 # kafka-full-course-java
+
+
+TO INSATLL KAFKA USE BELOW LINK AND TO READ MORE ABOUT KAFKA FOR FREE USE THIS BELOW LINK 
+
+https://www.conduktor.io/kafka/how-to-install-apache-kafka-on-windows-without-zookeeper-kraft-mode
